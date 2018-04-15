@@ -1,0 +1,4 @@
+*.csv
+__pycache__
+multiprocess.py
+plot.py
